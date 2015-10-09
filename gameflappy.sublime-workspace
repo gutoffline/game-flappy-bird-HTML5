@@ -1,0 +1,368 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ass",
+				"assuntos"
+			],
+			[
+				"faixa",
+				"faixa_idade"
+			],
+			[
+				"qt",
+				"quantidade"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/guto/repositorios/codeacademy-make-a-website/licao1.html",
+		"/home/guto/repositorios/codeacademy-make-a-website/licao2.html",
+		"/home/guto/repositorios/codeacademy-make-a-website/licao3.html",
+		"/home/guto/repositorios/codeacademy-make-a-website/licao4.html",
+		"/home/guto/repositorios/codeacademy-make-a-website/licao5.html",
+		"/home/guto/repositorios/codeacademy-make-a-website/licao6.html",
+		"/home/guto/repositorios/codeacademy-make-a-website/licao7.html",
+		"/home/guto/repositorios/codeacademy-make-a-website/licao8.html",
+		"/opt/lampp/htdocs/senac_decor/wp-content/themes/lupercalia/index.php",
+		"/home/guto/Área de Trabalho/aula/estilo.css",
+		"/opt/lampp/htdocs/senac_decor/wp-content/themes/lupercalia/content.php",
+		"/opt/lampp/htdocs/senac_decor/wp-content/themes/lupercalia/functions.php",
+		"/opt/lampp/htdocs/igrass/wp-config.php",
+		"/opt/lampp/htdocs/senac_decor/wp-content/themes/lupercalia/content-page.php",
+		"/opt/lampp/htdocs/senac_decor/wp-content/themes/lupercalia/content-single.php",
+		"/opt/lampp/htdocs/senac_decor/wp-content/themes/lupercalia/content",
+		"/opt/lampp/htdocs/aplicacao/application/controllers/dashboard.php",
+		"/opt/lampp/htdocs/aplicacao/application/controllers/wifi.php",
+		"/opt/lampp/htdocs/aplicacao/application/controllers/suporte.php",
+		"/opt/lampp/htdocs/aplicacao/application/controllers/relatorios.php",
+		"/opt/lampp/htdocs/aplicacao/application/models/wifi_model.php",
+		"/opt/lampp/htdocs/aplicacao/application/controllers/login.php",
+		"/opt/lampp/htdocs/aplicacao/application/controllers/marketing.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/login.php",
+		"/opt/lampp/htdocs/aplicacao/application/models/suporte_model.php",
+		"/opt/lampp/htdocs/aplicacao/application/models/user_model.php",
+		"/opt/lampp/htdocs/aplicacao/application/config/database.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v1/helpers/ajax.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-includes/misc.functions.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/themes/mystique/index.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/themes/mystique/header.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v1/templates/wpsc-cart_widget.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-de_DE.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-it_IT.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-nl_NL.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-nl_NL.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-pl_PL.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-pl_PL.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-ru_RU.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-sv_SE.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc.pot",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-cart_widget.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v1/helpers/template-tags.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-de_DE.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-es_ES.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-es_ES.po",
+		"/home/guto/Downloads/startbootstrap-sb-admin-2-1.0.5/pages/panels-wells.html",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v1/templates/wpsc-products_page.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-products_page.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-admin/includes/display-items-functions.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v1/templates/wpsc-featured_product.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/dashboard.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-components/theme-engine-v1/templates/wpsc-shopping_cart_page.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-cs_CS.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-cs_CS.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-cs_CZ.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-cs_CZ.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-da_DK.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-da_DK.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-et.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-et.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-fi.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-fi.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-fr_FR.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-fr_FR.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-hr_HR.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-hr_HR.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-hu_HU.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-hu_HU.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-id_ID.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-it_IT.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-ja.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-lt_LT.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-lt_LT.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-nb_NO.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-nb_NO.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-nn_NO.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-pt_BR.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-pt_BR.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-ru_RU.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-sv_SE.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-tr.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-tr.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-zh_ZH.mo",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-languages/wpsc-zh_ZH.po",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-featured_product.php",
+		"/opt/lampp/htdocs/lojawp/wp-content/plugins/wp-e-commerce/wpsc-theme/wpsc-shopping_cart_page.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/template/menu.php",
+		"/opt/lampp/htdocs/aplicacao2/application/views/template/menu.php",
+		"/opt/lampp/htdocs/aplicacao2/application/views/template/headerpainel.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/template/headerpainel.php",
+		"/opt/lampp/htdocs/aplicacao2/application/views/dashboard.php",
+		"/opt/lampp/htdocs/aplicacao2/application/views/login.php",
+		"/opt/lampp/htdocs/aplicacao2/application/config/database.php",
+		"/opt/lampp/htdocs/aplicacao2/application/config/config.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/wifi/atualizarcadastro.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/wifi/index.php",
+		"/home/guto/hotspot/hotspot/sistema/autoriza.php",
+		"/home/guto/hotspot/hotspot/aplicacao/application/config/database.php",
+		"/opt/lampp/htdocs/aplicacao/application/controllers/creditos.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/suporte/index.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/suporte/add.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/marketing/campanhas.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/creditos/add.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/template/footerpainel.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/marketing/historicocampanhas.php",
+		"/opt/lampp/htdocs/aplicacao/application/models/campanha_model.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/marketing/exibircampanha.php",
+		"/opt/lampp/htdocs/aplicacao/application/models/marketing_model.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/template/footer.php",
+		"/opt/lampp/htdocs/aplicacao/application/views/marketing/demografica.php",
+		"/home/guto/Downloads/twitter-bootstrap-wizard-master/examples/basic-finishbutton.html",
+		"/home/guto/Downloads/twitter-bootstrap-wizard-master/examples/basic.html",
+		"/opt/lampp/htdocs/aplicacao/tema-painel/js/jquery.bootstrap.wizard.js",
+		"/opt/lampp/htdocs/aplicacao/css/prettify.css",
+		"/opt/lampp/htdocs/aplicacao/tema-painel/js/prettify.js",
+		"/opt/lampp/htdocs/aplicacao/application/models/creditos_model.php",
+		"/opt/lampp/htdocs/aplicacao/application/models/cadastros_model.php",
+		"/home/guto/Downloads/startbootstrap-sb-admin-2-1.0.5/pages/flot.html",
+		"/home/guto/Downloads/startbootstrap-sb-admin-2-1.0.5/js/flot-data.js",
+		"/home/guto/Downloads/startbootstrap-sb-admin-2-1.0.5/bower_components/flot/jquery.flot.js",
+		"/home/guto/Downloads/startbootstrap-sb-admin-2-1.0.5/bower_components/flot/flot.jquery.json",
+		"/home/guto/Downloads/startbootstrap-sb-admin-2-1.0.5/bower_components/flot/jquery.flot.pie.js",
+		"/opt/lampp/htdocs/aplicacao/application/libraries/Template.php",
+		"/home/guto/Downloads/startbootstrap-sb-admin-2-1.0.5/pages/buttons.html",
+		"/opt/lampp/htdocs/aplicacao/application/views/wifi/add.php",
+		"/home/guto/Downloads/startbootstrap-sb-admin-2-1.0.5/pages/tables2.html",
+		"/opt/lampp/htdocs/aplicacao/tema-painel/bower_components/datatables/media/js/jquery.dataTables.js"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/opt/lampp/htdocs/lojawp"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"State/Province",
+			"wpsc_show_terms_and_conditions",
+			"termsandconds",
+			"excluding discount, shipping and tax",
+			"You save:",
+			"Old Preço:",
+			"preço",
+			"price:",
+			"price",
+			"Price:",
+			"excluding",
+			"\"imagecol\"",
+			"well",
+			"\">\n",
+			"nome",
+			"save",
+			"desatualizado",
+			"//selecionar todos atualizados\n	public function seleciona_cadastros_atualizados()\n	{    \n		//$DB1 = $this->load->database('bd_location', TRUE);\n		$this->db->select('*'); \n		$this->db->select('YEAR(FROM_DAYS(TO_DAYS(NOW())-TO_DAYS(data_nascimento))) as IDADE'); \n	    $this->db->where('nome !=', '');\n	    $get = $this->db->get('central001');\n	    if($get->num_rows > 0) return $get->result_array();\n	    return array();\n	}\n\n",
+			"previous",
+			"showin",
+			"Tables",
+			"user",
+			"data",
+			"helper",
+			"libra",
+			"database",
+			"data",
+			"sess_use_database",
+			"sess_cookie_name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"não incluso descontos, frete e taxas",
+			"Desconto:",
+			"Preço Antigo:",
+			"Preço:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "gameflappy.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

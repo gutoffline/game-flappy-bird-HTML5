@@ -1,0 +1,20 @@
+Flappy Bird by Guto
+
+**** tem rodar no xampp
+
+1 - Pasta "empty" com o modelo
+2 - Arquivo index.html - codificar
+3 - Criar as funções no arquivo main.js
+4 - Preencher as funções preload , create , update
+5 - Criar as funções jump restartGame
+--- Testar Game ---
+6 - carregar os pipes na função preload
+7 - add as configurações dos pipes na função create
+8 - add nova função addOnePipe
+9 - add nova função addRowOfPipes
+10 - add timer para chamar a função addRowOfPipe na função create
+11 - add na função create a pontuação - score - exibição
+12 - add na função addRowOfPipes o incremento da pontuação
+13 - add na função create a chamada para o restartGame
+------------ termina a primeira parte --------------
+
